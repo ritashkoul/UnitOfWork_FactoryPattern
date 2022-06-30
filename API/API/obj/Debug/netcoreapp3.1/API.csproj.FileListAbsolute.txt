@@ -1,0 +1,141 @@
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\API.csproj.AssemblyReference.cache
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\API.BL.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\API.BL.pdb
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Ritash\Codebase\MyRepos\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Ritash\Codebase\MyRepos\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\API.csproj.AssemblyReference.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\API.BL.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\bin\Debug\netcoreapp3.1\API.BL.pdb
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\API.BL.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\API.BL.pdb
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\API.csproj.AssemblyReference.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API\bin\Debug\netcoreapp3.1\Dapper.SimpleCRUD.dll

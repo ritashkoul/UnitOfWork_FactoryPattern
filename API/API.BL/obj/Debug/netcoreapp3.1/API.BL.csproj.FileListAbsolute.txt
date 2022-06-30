@@ -1,0 +1,39 @@
+C:\Ritash\Codebase\MyRepos\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.csproj.AssemblyReference.cache
+C:\Ritash\Codebase\MyRepos\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\API\API.BL\bin\Debug\netcoreapp3.1\API.BL.deps.json
+C:\Ritash\Codebase\MyRepos\API\API.BL\bin\Debug\netcoreapp3.1\API.BL.dll
+C:\Ritash\Codebase\MyRepos\API\API.BL\bin\Debug\netcoreapp3.1\API.BL.pdb
+C:\Ritash\Codebase\MyRepos\API\API.BL\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\API\API.BL\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Ritash\Codebase\MyRepos\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.csproj.CopyComplete
+C:\Ritash\Codebase\MyRepos\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.dll
+C:\Ritash\Codebase\MyRepos\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.pdb
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\bin\Debug\netcoreapp3.1\API.BL.deps.json
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\bin\Debug\netcoreapp3.1\API.BL.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\bin\Debug\netcoreapp3.1\API.BL.pdb
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.csproj.AssemblyReference.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.csproj.CopyComplete
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.pdb
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\bin\Debug\netcoreapp3.1\API.BL.deps.json
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\bin\Debug\netcoreapp3.1\API.BL.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\bin\Debug\netcoreapp3.1\API.BL.pdb
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.csproj.AssemblyReference.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.csproj.CopyComplete
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\API\API.BL\obj\Debug\netcoreapp3.1\API.BL.pdb

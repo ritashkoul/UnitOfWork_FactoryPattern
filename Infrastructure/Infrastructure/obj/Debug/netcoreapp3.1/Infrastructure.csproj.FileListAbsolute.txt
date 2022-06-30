@@ -1,0 +1,30 @@
+C:\Ritash\Codebase\MyRepos\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Ritash\Codebase\MyRepos\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Ritash\Codebase\MyRepos\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Ritash\Codebase\MyRepos\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\POC_coderestructure\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Ritash\Codebase\MyRepos\POC with unit of work\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Ritash\Codebase\MyRepos\POC with unit of work\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\Infrastructure\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Ritash\Codebase\MyRepos\POC with unit of work\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ritash\Codebase\MyRepos\POC with unit of work\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Ritash\Codebase\MyRepos\POC with unit of work\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Ritash\Codebase\MyRepos\POC with unit of work\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Ritash\Codebase\MyRepos\POC with unit of work\Infrastructure\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
